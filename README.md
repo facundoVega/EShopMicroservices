@@ -1,6 +1,6 @@
 # EShopMicroservices
 * Microservices on .NET 8 using ASP.NET Web API, Docker, RabbitMQ, MassTransit, gRPC, Yarp Gateway, Redis and SqlServer. 
-* The frontend application was developed using Razor pages
+* The frontend application was developed using ASP .NEt Core Razor pages
 
  ## Architectures used:
   * Vertical Slice Architecture
